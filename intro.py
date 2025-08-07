@@ -1,7 +1,7 @@
 """my first python file"""
 
 
-# str,int,float,complex,dict,list,tuple,range,set,frozenset,bool,bytes,bytearray,memoryview
+# str,int,float,complex,dict,list,tuple,range,set,frozenset,bool
 
 # def main():
 #     print("hello world")

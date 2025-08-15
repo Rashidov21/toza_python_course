@@ -46,8 +46,8 @@
 # else:
 #     print("Try again !")
 
-a = int(input("A = ?"))
-if a > 0:
-    print("True")
-else:
-    print("False")
+# a = int(input("A = ?"))
+# if a > 0:
+#     print("True")
+# else:
+#     print("False")

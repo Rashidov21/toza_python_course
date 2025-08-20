@@ -64,8 +64,8 @@
 #         continue
 # print(f"Summa = {summa}")
 
-k = 5
-n = 3
-for i in range(n):
-    print(k)
+# k = 5
+# n = 3
+# for i in range(n):
+#     print(k)
 

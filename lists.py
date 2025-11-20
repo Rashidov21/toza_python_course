@@ -117,3 +117,5 @@
 # arr.sort()
 # print(arr) # ['a', 'b', 'c', 'f', 'j']
 
+# arr = [1,2,3]
+# print(arr[0])

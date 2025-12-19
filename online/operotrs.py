@@ -72,11 +72,15 @@
 
 # Mantiqiy operatorlar 
 # mantiqiy VA (and) , Mantiqiy Yoki (or)
-print(1 > 0 and 2 > 1) # True
-print(1 > 0 and 0 > 1) # False
+# print(1 > 0 and 2 > 1) # True
+# print(1 > 0 and 0 > 1) # False
 
-print(1 > 0 or 0 > 1) # True
-print(0 > 1 or 0 > 1) # False 
+# print(1 > 0 or 0 > 1) # True
+# print(0 > 1 or 0 > 1) # False 
 
-print(not 1 > 0) # False
-print(not 1 < 0) # True
+# print(not 1 > 0) # False
+# print(not 1 < 0) # True
+
+# task 1 
+a = int(input("a = "))
+print("Perimetr = ", 4*a)

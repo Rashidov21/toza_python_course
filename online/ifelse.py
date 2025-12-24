@@ -41,9 +41,18 @@
 # task 1 
 # user son kiritadi , dastur son o'yledi , agar user kiritgan son dasturdagi songa teng bo'lsa "Yutdiz" ekranga chiqadi aks holsa user davom etadi 
 
-user = int(input("Son ? "))
-number = 7
+# user = int(input("Son ? "))
+# if user > 0:
+#     print("Musbat")
 
+# if user % 2 == 0:
+#     print("JUFT")
+    
+# if user % 2 == 1:
+#     print("TOQ")
 
-
+# a = int(input())
+# b = int(input())
+# if a > 2 and b <= 3:
+#     print("True")
 

@@ -8,7 +8,6 @@
 #     print("Hello")
 
 
-
 # range , enumerate 
 
 # range - sonlar diapozoni (oraliq) 1,10
@@ -47,13 +46,14 @@
 #         # continue # keyingi sikl o'tish va davom etish
 #     print(i)
 
-for i in range(10):
-    # if i % 2 == 0:
-    #     continue
-    # if i == 5:
-    #     break
-    print(i)
-else:
-    print("sikl tugadi")
-    
-  
+# for i in range(10):
+#     # if i % 2 == 0:
+#     #     continue
+#     # if i == 5:
+#     #     break
+#     print(i)
+# else:
+#     print("sikl tugadi")
+price = 15000
+for i in range(1,11):
+    print(float(f"0.{i}") * price)

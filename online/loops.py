@@ -56,11 +56,16 @@
 #     print("sikl tugadi")
 price = 15000
 for i in range(1,11):
-    print(float(f"0.{i}") * price)
+    print(float(f".{i}") * price)
 
 a = 5
 b = 9
 summa = 0
 for i in range(a,b):
-    summa += i
+    summa += i ** 2
 print(summa)
+
+
+a = 3
+b = 6
+print(list(range(a,b+1)))

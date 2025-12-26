@@ -57,3 +57,10 @@
 price = 15000
 for i in range(1,11):
     print(float(f"0.{i}") * price)
+
+a = 5
+b = 9
+summa = 0
+for i in range(a,b):
+    summa += i
+print(summa)

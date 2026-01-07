@@ -54,18 +54,38 @@
 #     print(i)
 # else:
 #     print("sikl tugadi")
-price = 15000
-for i in range(1,11):
-    print(float(f".{i}") * price)
+# price = 15000
+# for i in range(1,11):
+#     print(float(f".{i}") * price)
 
-a = 5
-b = 9
-summa = 0
-for i in range(a,b):
-    summa += i ** 2
-print(summa)
+# a = 5
+# b = 9
+# summa = 0
+# for i in range(a,b):
+#     summa += i ** 2
+# print(summa)
 
+# while , for 
+# s = "salom dunyo"
+# letters = "aiuoe"
+# result = ''
+# count = 0
+# for i in s:
+#     if count == 5:
+#         break
+#     if i in letters:
+#         continue
+#     result += i
+#     count += 1
+    
+    
+# print(result) # slm dny
+# colors = ["red", "big", "tasty"]
+# fruits = ["apple", "banana", "cherry"]
 
-a = 3
-b = 6
-print(list(range(a,b+1)))
+# for x in colors:
+#   for y in fruits:
+#     print(x, y)
+# else:
+#     print("Sikl tugadi")
+

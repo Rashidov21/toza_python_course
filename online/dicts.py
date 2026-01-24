@@ -75,3 +75,42 @@
 # for v,k in enumerate(["anor","olma","behi"]):
 #     d.update({k:v})
 # print(d) # {'anor': 0, 'olma': 1, 'behi': 2}
+
+
+# task 1 
+# user kiritgan matnni olib undagi 3 tadan ko'p unli harf ishtirok etgan so'zlarni alohida dict ga yozish kerak (kalitlar standart : word1,word2...)
+# input : salom nima gaplar qalaysan
+# output: {"word1":"qalaysan"}
+
+
+# task 19  dict, for, if , split
+# sometimes = [
+#     {'date':'2022/10/11'},
+#     {'date':'2023/02/05'},
+#     {'date':'2005/05/15'},
+#     {'date':'2004/03/25'},
+#     {'date':'2006/11/22'},
+#     {'date':'2009/10/30'},
+#     {'date':'2012/06/10'},
+# ]
+# ushbu ma'lumotlardagi sanalarni tekshiring va 2007-yildan keyingi sanalarni barchasini ekranga chiqaring
+
+
+# task 6 
+# Berilgan massivdan sonlarni bir xillarini olib tashlab faqat sanoqdagi ketma-ket sonlarni qoldiring
+# Masalan arr = [1,5,6,1,8,5,9]  Output/Javob arr = [1,5,6,8,9]
+# Sizga berilgan Massiv bu >> arr = [2,6,6,4,7,8,2,9,7,1,9]
+
+# task 7 
+
+# Kinoteatrda 15 ta qator  bor har bir qatorda 20 tadan o'rin bor. O'rindiqlar seriya raqamlangan
+# misol : A12 A bu yerda qator tartib harfi 12 esa  o’rindiq tartib raqami siz foydalanuvchi kiritgan seriya raqamiga qarab o’rindiq qaysi qatorda joylashganini topishingiz kerak. 
+
+# Bundan tashqari random shaklda o’rindiqlar band qilinadi , Kinoteatr 50% ga to’ldiriladi siz foydalanuvchi kiritgan o’rindiq band yoki bosh ekanini chiqarishingiz kerak.
+
+# task 8 
+# 9 qavatli uyda 3-ta podyezd bor har bir qavatda 6 tadan kvartira bor. Foydalanuvchi kvartira raqamini kiritsa siz topishingiz kerak;
+# (kvartiralar raqamlari 1-chi qavatdan 1-podyezdan boshlanadi : 1-kv , 1-podyezd 1-etaj)
+# Kvartira qaysi qavatda ekanini
+# Kvartira qaysi podyezdda ekanini
+

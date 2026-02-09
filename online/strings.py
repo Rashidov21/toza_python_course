@@ -108,7 +108,7 @@
 # replace  - siz korsatgan belgilarni siz korsatgan belgilarga almashtirish  
 
 # print("salom".replace("m","n")) # salon
-
+text = "lorem ipsum"
 
 print("abc123".isalnum()) # true
 print("abc123#".isalnum()) # false
